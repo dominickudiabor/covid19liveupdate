@@ -1,0 +1,16 @@
+.header {
+  img {
+    margin-top: 50px;
+    width: 370px;
+  }
+
+}
+
+@media (max-width : 770px) {
+  .header {
+    margin: 0 10%;
+    img{
+      width: 100%;
+    }
+  }
+}

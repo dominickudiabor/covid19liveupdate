@@ -1,0 +1,14 @@
+.chart-container {
+    display:flex;
+    justify-content: center;
+   width: 80%;
+   margin-bottom: 2%;
+   
+
+   @media (max-width : 770px) {
+       .chart-container {
+           width: 100%;
+       }
+   }
+    
+}
