@@ -1,6 +1,6 @@
 import React from "react";
 
-import image from '../../images/image.png'
+import image from '../../images/update.png'
 
 
 import './header.styles.scss'
